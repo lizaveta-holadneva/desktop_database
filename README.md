@@ -1,13 +1,15 @@
-# desktop_database
-Database for books
+# Desktop Database Application
+Database for books on Desktop.<br>
+Application creates an app where you can put books details and they would be stored in SQLite (local) database.
 
-Project Title<br>
-This app is for Mac. It creates an app where you can put books details and they would be stored in SQLite (local).
+### Installing
+pip3 install sqlite3
 
-Libraries<br>
-tkinter<br>
-functools<br>
-psycopg2
 
-Running<br>
+### Libraries<br>
+*tkinter<br>
+*functools<br>
+*psycopg2
+
+### Running<br>
 python3 frontend.py
